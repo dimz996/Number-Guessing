@@ -1,0 +1,25 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: rgb(235, 158, 250);
+  }
+
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
+  h1{
+      color: blueviolet;
+      font-size: 30px;
+      align-content: center;
+      margin-left: auto;
+  }
+  p{
+      color: aliceblues;
+  }
